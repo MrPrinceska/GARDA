@@ -125,9 +125,9 @@ PyRevit - корпоративные плагины разработанные B
 
 #### Настройка аппаратного ускорения
 
-<image src="./welcome-bim-5.png" crop="0,0,100,100" scale="68" width="885px" height="1058px" float="center"/>
-
 Нажмите галочку «Использовать аппаратное ускорение»
+
+<image src="./welcome-bim-5.png" crop="0,0,100,100" scale="68" width="885px" height="1058px" float="center"/>
 
 ### Вкладка «Файлы»
 
@@ -143,11 +143,7 @@ PyRevit - корпоративные плагины разработанные B
 
 <image src="./welcome-bim-6.png" crop="0,0,100,100" scale="72" width="590px" height="725px" float="center"/>
 
-<note type="info">
 
-Файл -> Параметры -> Файлы. Выделить «Путь по умолчанию для пользовательских файлов» и пример отдельной папки Revit \*\_Temp.
-
-</note>
 
 ## Открытие модели и совместная работа
 
