@@ -65,6 +65,10 @@ title: Welcome BIM
 
 **ModPlus** - базовые плагины для оптимизации вашей работы в Revit
 
+Установить с Nextcloud:
+
+`C:\Nextcloud\Гарда - ТИМ – отдел\98_ПО\ModPlus`
+
 Открываем Revit
 
 1. Выбираем вкладку ModPlus
