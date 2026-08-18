@@ -1,9 +1,9 @@
 ---
-order: 1
 title: Welcome BIM
+order: 1
 ---
 
-## 1\. Корпоративная почта
+## <highlight color="purple">1\. Корпоративная почта</highlight>
 
 ### 1\.1 Подключение
 
