@@ -17,13 +17,13 @@ order: 1
 
 Вкладка «Вставить» -> «Импорт изображения» («Импорт PDF»)
 
-![](./sozdanie-semeystva-podpisi-dlya-shtampa.jpeg){width=135px height=76px}
+<image src="./sozdanie-semeystva-podpisi-dlya-shtampa.jpeg" crop="0,0,100,100" scale="137px" width="135px" height="76px" float="center"/>
 
 #### 4\. Отмасштабируйте изображение и разместите в области для расположения подписи:
 
 
 
-![](./sozdanie-semeystva-podpisi-dlya-shtampa-2.jpeg){width=895px height=233px}
+<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-2.jpeg" crop="0,0,100,100" scale="611px" width="895px" height="233px" float="center"/>
 
 
 
@@ -33,7 +33,7 @@ order: 1
 
 Для сплайна выберите подкатегорию «Подпись»
 
-![](./sozdanie-semeystva-podpisi-dlya-shtampa-3.jpeg){width=1270px height=698px}
+<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-3.jpeg" crop="0,0,100,100" scale="636px" width="1270px" height="698px" float="center"/>
 
 
 
@@ -41,7 +41,7 @@ order: 1
 
 
 
-![](./sozdanie-semeystva-podpisi-dlya-shtampa-4.jpeg){width=734px height=729px}
+<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-4.jpeg" crop="0,0,100,100" scale="598px" width="734px" height="729px" float="center"/>
 
 
 
@@ -49,7 +49,7 @@ order: 1
 
 
 
-![](./sozdanie-semeystva-podpisi-dlya-shtampa-5.jpeg){width=675px height=308px}
+<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-5.jpeg" crop="0,0,100,100" scale="612px" width="675px" height="308px" float="center"/>
 
 
 
@@ -57,7 +57,7 @@ order: 1
 
 
 
-![](./sozdanie-semeystva-podpisi-dlya-shtampa-6.jpeg){width=949px height=379px}
+<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-6.jpeg" crop="0,0,100,100" scale="709px" width="949px" height="379px" float="center"/>
 
 
 
