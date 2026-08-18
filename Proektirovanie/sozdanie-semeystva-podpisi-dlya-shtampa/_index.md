@@ -6,4 +6,3 @@ aliases:
     moved: "2026-08-18T09:47:36Z"
 ---
 
-<view defs="hierarchy=none" display="List"/>
