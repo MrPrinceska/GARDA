@@ -1,6 +1,10 @@
 ---
 title: Семейство подписи
 order: 1
+aliases:
+  - path: >-
+      Proektirovanie/sozdanie-semeystva-podpisi-dlya-shtampa/sozdanie-semeystva-podpisi-dlya-shtampa
+    moved: "2026-08-18T15:14:05Z"
 ---
 
 <note type="info">
