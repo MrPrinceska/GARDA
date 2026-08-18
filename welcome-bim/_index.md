@@ -3,7 +3,7 @@ title: Welcome BIM
 order: 1
 ---
 
-## <highlight color="purple">1\. Корпоративная почта</highlight>
+## 1\. Корпоративная почта
 
 ### 1\.1 Подключение
 
