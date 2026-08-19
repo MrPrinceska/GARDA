@@ -213,6 +213,8 @@ order: 1
 
 <image src="./welcome-bim-6.png" crop="0,0,100,100" scale="72" width="590px" height="725px" float="center"/>
 
+### 4\.4 Создание собственной подписи в Revit
+
 
 
 ## 5\. Открытие модели и совместная работа
