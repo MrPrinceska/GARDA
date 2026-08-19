@@ -1,6 +1,11 @@
 ---
-order: 3
 title: Связи
+order: 2.3
+aliases:
+  - path: Proektirovanie/ar/svyazi
+    moved: "2026-08-19T11:06:16Z"
+  - path: svyazi
+    moved: "2026-08-19T11:06:28Z"
 ---
 
 ## 1\. Что нужно знать

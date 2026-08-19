@@ -1,6 +1,11 @@
 ---
-order: 1
 title: Рабочие наборы
+order: 1.2
+aliases:
+  - path: Proektirovanie/ar/rabochie-nabory
+    moved: "2026-08-19T11:06:09Z"
+  - path: rabochie-nabory
+    moved: "2026-08-19T11:06:22Z"
 ---
 
 ## 1\. Что нужно знать
@@ -100,7 +105,7 @@ title: Рабочие наборы
 
 </note>
 
-<image src="./rabochie-nabory.png" crop="0,0,100,100" scale="48" width="464px" height="642px" float="center"/>
+<image src="./_index.png" crop="0,0,100,100" scale="48" width="464px" height="642px" float="center"/>
 
 <note type="tip">
 
@@ -108,7 +113,7 @@ title: Рабочие наборы
 
 </note>
 
-<image src="./rabochie-nabory-2.png" crop="0,0,100,100" scale="49" width="740px" height="1317px" float="center"/>
+<image src="./_index-2.png" crop="0,0,100,100" scale="49" width="740px" height="1317px" float="center"/>
 
 <note type="tip">
 
@@ -154,7 +159,7 @@ title: Рабочие наборы
 
 5. В конце рабочего дня не оставляйте элементы занятыми без необходимости.
 
-![](./rabochie-nabory-3.png){width=469px height=358px}
+![](./_index-3.png){width=469px height=358px}
 
 <note type="info">
 
@@ -162,7 +167,7 @@ title: Рабочие наборы
 
 </note>
 
-<image src="./rabochie-nabory-4.png" crop="0,0,100,100" scale="100" width="1266px" height="778px" float="center"/>
+<image src="./_index-4.png" crop="0,0,100,100" scale="100" width="1266px" height="778px" float="center"/>
 
 <note type="info">
 

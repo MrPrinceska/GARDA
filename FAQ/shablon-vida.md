@@ -1,6 +1,13 @@
 ---
-order: 2
 title: Шаблон вида
+order: 1.8
+aliases:
+  - path: Proektirovanie/ar/shablon-vida
+    moved: "2026-08-19T11:06:11Z"
+  - path: rabochie-nabory/shablon-vida
+    moved: "2026-08-19T11:06:13Z"
+  - path: shablon-vida
+    moved: "2026-08-19T11:06:24Z"
 ---
 
 ## 1\. Что нужно знать
