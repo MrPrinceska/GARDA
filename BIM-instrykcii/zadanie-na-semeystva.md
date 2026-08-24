@@ -7,13 +7,13 @@ order: 2.5
 
 1\. Откройте Яндекс.Трекер и нажмите «Создать задачу».
 
-<image src="./zadanie-na-semeystva.jpeg" crop="0,0,100,100" scale="363px" width="646px" height="637px" float="center"/>
+<image src="./zadanie-na-semeystva-6.jpeg" crop="0,0,100,100" scale="339px" width="646px" height="637px" float="center"/>
 
 
 
 2\. В поле «Очередь» выберите «ТИМ».
 
-<image src="./zadanie-na-semeystva-3.jpeg" crop="0,0,100,100" scale="520px" width="1296px" height="744px" float="center"/>
+<image src="./zadanie-na-semeystva-3.jpeg" crop="0,0,100,100" scale="539px" width="1296px" height="744px" float="center"/>
 
 
 
@@ -25,9 +25,9 @@ order: 2.5
 
 -  «Плагины» -- для разработки и корректировки плагинов.
 
-   ![](./zadanie-na-semeystva.jpeg){width=1334px height=337px}
+![](./zadanie-na-semeystva.jpeg){width=1334px height=337px}
 
-   
+
 
 4\. Заполните все поля формы.
 
