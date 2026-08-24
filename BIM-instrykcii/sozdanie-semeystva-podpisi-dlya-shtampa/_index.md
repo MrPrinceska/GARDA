@@ -17,7 +17,7 @@ aliases:
 
 
 
-2\. Откройте файл шаблона подписи, расположенный по пути: 
+2\. Откройте файл шаблона подписи, расположенный по пути:
 
 `Nextcloud2\Гарда - ТИМ – отдел\02_Семейства\Общие\Аннотации\Подписи\Подпись_Шаблон.rfa`
 
@@ -31,7 +31,7 @@ aliases:
 
 </note>
 
-<image src="./sozdanie-semeystva-podpisi-dlya-shtampa.jpeg" crop="0,0,100,100" scale="137px" width="135px" height="76px" float="center"/>
+<image src="./_index.jpeg" crop="0,0,100,100" scale="137px" width="135px" height="76px" float="center"/>
 
 
 
@@ -39,7 +39,7 @@ aliases:
 
 
 
-<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-2.jpeg" crop="0,0,100,100" scale="611px" width="895px" height="233px" float="center"/>
+<image src="./_index-2.jpeg" crop="0,0,100,100" scale="611px" width="895px" height="233px" float="center"/>
 
 
 
@@ -53,7 +53,7 @@ aliases:
 
 Для сплайна выберите подкатегорию «Подпись»
 
-<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-3.jpeg" crop="0,0,100,100" scale="636px" width="1270px" height="698px" float="center"/>
+<image src="./_index-3.jpeg" crop="0,0,100,100" scale="636px" width="1270px" height="698px" float="center"/>
 
 
 
@@ -61,7 +61,7 @@ aliases:
 
 
 
-<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-4.jpeg" crop="0,0,100,100" scale="598px" width="734px" height="729px" float="center"/>
+<image src="./_index-4.jpeg" crop="0,0,100,100" scale="598px" width="734px" height="729px" float="center"/>
 
 
 
@@ -69,7 +69,7 @@ aliases:
 
 
 
-<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-5.jpeg" crop="0,0,100,100" scale="612px" width="675px" height="308px" float="center"/>
+<image src="./_index-5.jpeg" crop="0,0,100,100" scale="612px" width="675px" height="308px" float="center"/>
 
 
 
@@ -77,11 +77,11 @@ aliases:
 
 
 
-<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-6.jpeg" crop="0,0,100,100" scale="709px" width="949px" height="379px" float="center"/>
+<image src="./_index-6.jpeg" crop="0,0,100,100" scale="709px" width="949px" height="379px" float="center"/>
 
 
 
-9\. Сохраняем семейство к себе в личную папку, название формируется по принципу: 
+9\. Сохраняем семейство к себе в личную папку, название формируется по принципу:
 
 `Подпись_<Фамилия>`
 
