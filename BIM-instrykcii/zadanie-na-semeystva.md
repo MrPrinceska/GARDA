@@ -28,7 +28,7 @@ aliases:
 
 -  «Плагины» -- для разработки и корректировки плагинов.
 
-![](./zadanie-na-semeystva.jpeg){width=1334px height=337px}
+![](./zadanie-na-semeystva.jpeg){width=1159px height=272px}
 
 
 
