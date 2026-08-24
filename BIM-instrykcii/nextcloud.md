@@ -72,3 +72,75 @@ order: 2
 [Подробная инструкция по работе с Nextcloud](https://wiki.avilex.ru/ru/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8/NCLOUD)
 
 </note>
+
+
+
+## Обновление пути в локальную папку
+
+1\. Запусти Nextcloud 
+
+<image src="./nextcloud-8.jpeg" crop="0,0,100,100" scale="385px" width="874px" height="1010px" float="center"/>
+
+
+
+2\. Нажмите на иконку своего профиля (стрелка вниз) и выберите пункт **„Настройки“**.
+
+<image src="./nextcloud-9.jpeg" crop="0,0,100,100" scale="401px" width="857px" height="1016px" float="center"/>
+
+
+
+3\. Нажмите на свой профиль и далее на **«…»**.
+
+<image src="./nextcloud-10.jpeg" crop="0,0,100,100" scale="608px" width="1471px" height="833px" float="center"/>
+
+
+
+4\. Выберите «**Приостановить синхронизацию**» 
+
+<image src="./nextcloud-11.jpeg" crop="0,0,100,100" scale="400px" width="593px" height="416px" float="center"/>
+
+
+
+5\. Далее «**Отключить синхронизацию**»
+
+![](./nextcloud-12.jpeg){width=657px height=239px}
+
+
+
+6\. Нажмите «**Добавить папку для синхронизации …**»
+
+![](./nextcloud-13.jpeg){width=1472px height=834px}
+
+
+
+7\. Выберите интересующий вас тип синхронизации и путь в локальную папку(`C:\Nextcloud`). После нажмите "Подключиться"
+
+<note>
+
+ВАЖНО!!!
+
+1. Создайте папку `Nextcloud` на диске С
+
+2. Укажите путь синхронизации файлов в локальную папку `C:\Nextcloud`
+
+</note>
+
+![](./nextcloud-14.jpeg){width=1808px height=835px}
+
+
+
+8\. Нажмите на **Nextcloud**. Потом «**Далее**»
+
+![](./nextcloud-15.jpeg){width=772px height=608px}
+
+
+
+8\. Нажмите на «**Добавить подключение для синхронизации**»
+
+![](./nextcloud-16.jpeg){width=780px height=605px}
+
+
+
+Готово. 
+
+Если у вас возникли трудности на настройки пути то напишите [a.rodionov@gardapro.ru](mailto:a.rodionov@gardapro.ru)
