@@ -7,7 +7,7 @@ order: 2.5
 
 1\. Откройте Яндекс.Трекер и нажмите «Создать задачу».
 
-<image src="./zadanie-na-semeystva.jpeg" crop="0,0,100,100" scale="327px" width="646px" height="637px" float="center"/>
+<image src="./zadanie-na-semeystva.jpeg" crop="0,0,100,100" scale="363px" width="646px" height="637px" float="center"/>
 
 
 
@@ -26,6 +26,8 @@ order: 2.5
 -  «Плагины» -- для разработки и корректировки плагинов.
 
    ![](./zadanie-na-semeystva.jpeg){width=1334px height=337px}
+
+   
 
 4\. Заполните все поля формы.
 
