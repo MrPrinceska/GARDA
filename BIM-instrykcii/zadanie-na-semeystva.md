@@ -1,6 +1,9 @@
 ---
 title: Постановка задач BIM отделу
-order: 2.5
+order: 0.5
+aliases:
+  - path: zadanie-na-semeystva
+    moved: "2026-08-24T13:07:23Z"
 ---
 
 ### Как создать задачу в Яндекс.Трекере
@@ -25,7 +28,7 @@ order: 2.5
 
 -  «Плагины» -- для разработки и корректировки плагинов.
 
-![](./zadanie-na-semeystva.jpeg){width=1334px height=337px}
+<image src="./zadanie-na-semeystva.jpeg" crop="0,0,100,100" scale="722px" width="1334px" height="337px" float="center"/>
 
 
 
