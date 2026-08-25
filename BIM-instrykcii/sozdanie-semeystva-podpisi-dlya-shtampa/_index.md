@@ -77,7 +77,7 @@ aliases:
 
 
 
-<image src="./_index-6.jpeg" crop="0,0,100,100" scale="709px" width="949px" height="379px" float="center"/>
+![](./sozdanie-semeystva-podpisi-dlya-shtampa-2.jpeg){width=1264px height=483px}
 
 
 
