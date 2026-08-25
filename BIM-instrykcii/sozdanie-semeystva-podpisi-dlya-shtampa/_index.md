@@ -69,7 +69,7 @@ aliases:
 
 
 
-<image src="./_index-5.jpeg" crop="0,0,100,100" scale="612px" width="675px" height="308px" float="center"/>
+<image src="./sozdanie-semeystva-podpisi-dlya-shtampa.jpeg" crop="0,0,100,100" scale="650px" width="870px" height="430px" float="center"/>
 
 
 
