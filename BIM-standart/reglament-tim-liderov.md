@@ -1,6 +1,9 @@
 ---
 title: Регламент ТИМ Лидеров
 order: 4
+aliases:
+  - path: BIM-instrykcii/reglament-tim-liderov
+    moved: "2026-08-26T10:11:24Z"
 ---
 
 ## Принятые сокращения
