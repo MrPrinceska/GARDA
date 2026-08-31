@@ -91,9 +91,15 @@ Garda BIM.extension
 
 **pyRevit -> Настройки**
 
+<image src="./korporativnye-plaginy-pyrevit.jpeg" crop="0,0,100,100" scale="138px" width="137px" height="144px" float="center"/>
+
+<image src="./korporativnye-plaginy-pyrevit-2.jpeg" crop="0,0,100,100" scale="495px" width="877px" height="286px" float="center"/>
+
 Найдите раздел:
 
 **Каталоги пользовательских расширений**
+
+<image src="./korporativnye-plaginy-pyrevit-3.jpeg" crop="0,0,100,100" scale="514px" width="1047px" height="1191px" float="center"/>
 
 Нажмите:
 
@@ -137,6 +143,8 @@ pyRevit ищет внутри указанной директории папки
 1. Сохраните настройки pyRevit.
 
 2. Нажмите **pyRevit -> Обновить**.
+
+![](./korporativnye-plaginy-pyrevit-4.jpeg){width=138px height=144px}
 
 Либо полностью закройте и заново запустите Revit.
 
