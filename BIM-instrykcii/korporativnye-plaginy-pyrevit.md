@@ -17,7 +17,7 @@ order: 4
 
 -  [Nextcloud Desktop Client.](./nextcloud)
 
-Если какое-либо из приложений отсутствует, обратитесь в ИТ-службу.
+Если какое-либо из приложений отсутствует в приложении «Установка ПО», обратитесь в ИТ-службу.
 
 ## 2\. Подключение Nextcloud
 
@@ -89,7 +89,7 @@ Garda BIM.extension
 
 Запустите **Revit**.
 
-Перейдите:
+Перейдите на вкладку:
 
 **pyRevit -> Настройки**
 
@@ -101,13 +101,13 @@ Garda BIM.extension
 
 **Каталоги пользовательских расширений**
 
-<image src="./korporativnye-plaginy-pyrevit-3.jpeg" crop="0,0,100,100" scale="514px" width="1047px" height="1191px" float="center"/>
-
 Нажмите:
 
 **Добавить папку**
 
 и выберите папку, **внутри которой находится** `.extension`.
+
+<image src="./korporativnye-plaginy-pyrevit-6.jpeg" crop="0,0,100,100" scale="514px" width="1047px" height="1191px" float="center"/>
 
 Например, если структура выглядит так:
 
