@@ -18,3 +18,5 @@ order: 4
 ## Заполнение штампа
 
 ## 2\.1. Информация о проекте
+
+<image src="./rabota-so-shtampom-3.jpeg" crop="0,0,100,100" scale="1125px" width="1729px" height="786px" float="center"/>
