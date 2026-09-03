@@ -167,7 +167,7 @@ order: 4
 
       </note>
 
-      <image src="./rabota-so-shtampom-5.webp" crop="0,0,100,100" scale="261px" width="331px" height="533px" float="left"/>
+      <image src="./rabota-so-shtampom-5.webp" crop="0,0,100,100" scale="728px" width="331px" height="533px" float="center"/>
 
       `Рисунок 7`
 
