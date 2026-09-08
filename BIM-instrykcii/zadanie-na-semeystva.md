@@ -1,6 +1,6 @@
 ---
 title: Постановка задач BIM отделу
-order: 0.5
+order: 1
 aliases:
   - path: zadanie-na-semeystva
     moved: "2026-08-24T13:07:23Z"

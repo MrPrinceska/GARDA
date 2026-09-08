@@ -1,6 +1,6 @@
 ---
 title: Nextcloud
-order: 2
+order: 3
 ---
 
 <note type="danger">

@@ -1,6 +1,6 @@
 ---
 title: Семейство подписи
-order: 1
+order: 2
 aliases:
   - path: >-
       Proektirovanie/sozdanie-semeystva-podpisi-dlya-shtampa/sozdanie-semeystva-podpisi-dlya-shtampa
@@ -89,4 +89,4 @@ aliases:
 
 10\. Перед использованием семейства необходимо направить его на согласование на почту Александру Родионову ([a.rodionov@gardapro.ru](mailto:a.rodionov@gardapro.ru))
 
-### 
+###
