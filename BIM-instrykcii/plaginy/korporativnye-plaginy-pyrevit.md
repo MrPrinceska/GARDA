@@ -1,6 +1,9 @@
 ---
 title: Корпоративные плагины PyRevit
-order: 5
+order: 0.5
+aliases:
+  - path: BIM-instrykcii/korporativnye-plaginy-pyrevit
+    moved: "2026-09-08T16:06:45Z"
 ---
 
 Корпоративные плагины Revit распространяются через Nextcloud.
@@ -15,7 +18,7 @@ order: 5
 
 -  pyRevit;
 
--  [Nextcloud Desktop Client.](./nextcloud)
+-  [Nextcloud Desktop Client.](./../programmy/nextcloud)
 
 Если какое-либо из приложений отсутствует в приложении «Установка ПО», обратитесь в ИТ-службу.
 

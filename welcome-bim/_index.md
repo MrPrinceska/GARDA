@@ -59,7 +59,7 @@ order: 1
 
 <note type="info">
 
-[Подробная инструкция](./../BIM-instrykcii/nextcloud)
+[Подробная инструкция](./../BIM-instrykcii/programmy/nextcloud)
 
 </note>
 
@@ -69,7 +69,7 @@ order: 1
 
 <note type="info">
 
-[Подробная инструкция](./../BIM-instrykcii/modplus)
+[Подробная инструкция](./../BIM-instrykcii/programmy/modplus)
 
 </note>
 
@@ -79,7 +79,7 @@ order: 1
 
 <note type="info">
 
-[Подробная инструкция](./../BIM-instrykcii/korporativnye-plaginy-pyrevit)
+[Подробная инструкция](./../BIM-instrykcii/plaginy/korporativnye-plaginy-pyrevit)
 
 </note>
 
@@ -193,7 +193,7 @@ order: 1
 
 ### 4\.4 Создание собственной подписи в Revit
 
-Для подписи на штампах необходимо [создать семейство Вашей подписи](./../BIM-instrykcii/sozdanie-semeystva-podpisi-dlya-shtampa/_index) и добавить его в корпоративную библиотеку семейств
+Для подписи на штампах необходимо [создать семейство Вашей подписи](./../BIM-instrykcii/revit/sozdanie-semeystva-podpisi-dlya-shtampa/_index) и добавить его в корпоративную библиотеку семейств
 
 ## 5\. Открытие модели и совместная работа
 

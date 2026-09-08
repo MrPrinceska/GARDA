@@ -1,6 +1,11 @@
 ---
 title: Работа со штампом
-order: 6
+order: 9.3
+aliases:
+  - path: BIM-instrykcii/sozdanie-semeystva-podpisi-dlya-shtampa/rabota-so-shtampom
+    moved: "2026-09-08T16:07:54Z"
+  - path: BIM-instrykcii/rabota-so-shtampom
+    moved: "2026-09-08T16:08:09Z"
 ---
 
 ## 1\. Общие указания
@@ -162,8 +167,6 @@ order: 6
       </note>
 
       <image src="./rabota-so-shtampom-5.webp" title="Рисунок 7" crop="0,0,100,100" scale="334px" width="331px" height="533px" float="center"/>
-
-      
 
 5. Комплект чертежей
 

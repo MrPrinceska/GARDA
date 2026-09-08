@@ -1,6 +1,9 @@
 ---
 title: Nextcloud
-order: 3
+order: 2
+aliases:
+  - path: BIM-instrykcii/nextcloud
+    moved: "2026-09-08T16:07:23Z"
 ---
 
 <note type="danger">
@@ -77,7 +80,7 @@ order: 3
 
 ## Обновление пути в локальную папку
 
-1\. Запусти Nextcloud 
+1\. Запусти Nextcloud
 
 <image src="./nextcloud-8.jpeg" crop="0,0,100,100" scale="385px" width="874px" height="1010px" float="center"/>
 
@@ -95,7 +98,7 @@ order: 3
 
 
 
-4\. Выберите «**Приостановить синхронизацию**» 
+4\. Выберите «**Приостановить синхронизацию**»
 
 <image src="./nextcloud-11.jpeg" crop="0,0,100,100" scale="400px" width="593px" height="416px" float="center"/>
 
@@ -141,6 +144,6 @@ order: 3
 
 
 
-Готово. 
+Готово.
 
 Если у вас возникли трудности на настройки пути то напишите [a.rodionov@gardapro.ru](mailto:a.rodionov@gardapro.ru)
