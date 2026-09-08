@@ -61,7 +61,7 @@ aliases:
 
 
 
-<image src="./_index-4.jpeg" crop="0,0,100,100" scale="598px" width="734px" height="729px" float="center"/>
+<image src="./_index-4.jpeg" crop="0,0,100,100" scale="456px" width="734px" height="729px" float="center"/>
 
 
 
@@ -77,7 +77,7 @@ aliases:
 
 
 
-![](./sozdanie-semeystva-podpisi-dlya-shtampa-2.jpeg){width=1264px height=483px}
+<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-2.jpeg" crop="0,0,100,100" scale="697px" width="1264px" height="483px" float="center"/>
 
 
 

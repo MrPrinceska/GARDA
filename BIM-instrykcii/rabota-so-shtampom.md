@@ -13,21 +13,15 @@ order: 4
 
 
 
-<image src="./rabota-so-shtampom.jpeg" crop="0,0,100,100" scale="780px" width="459px" height="117px" float="center"/>
+<image src="./rabota-so-shtampom.jpeg" title="Рисунок 1" crop="0,0,100,100" scale="459px" width="459px" height="117px" float="center"/>
 
-`Рисунок 1`
-
-<image src="./rabota-so-shtampom-2.jpeg" crop="0,0,100,100" scale="780px" width="458px" height="123px" float="center"/>
-
-`Рисунок 2`
+<image src="./rabota-so-shtampom-2.jpeg" title="Рисунок 2" crop="0,0,100,100" scale="461px" width="458px" height="123px" float="center"/>
 
 ## 2\. Заполнение штампа
 
 ## 2\.1. Информация о проекте
 
-<image src="./rabota-so-shtampom-2.webp" crop="0,0,100,100" scale="1250px" width="1729px" height="786px" float="center"/>
-
-`Рисунок 3`
+<image src="./rabota-so-shtampom-2.webp" title="Рисунок 3" crop="0,0,100,100" scale="1046px" width="1729px" height="786px" float="center"/>
 
 1. Имя заказчика
 
@@ -57,9 +51,9 @@ order: 4
 
 
 
-<image src="./rabota-so-shtampom.webp" crop="0,0,100,100" scale="1346px" width="1698px" height="906px" float="center"/>
+<image src="./rabota-so-shtampom.webp" title="Рисунок 4" crop="0,0,100,100" scale="1051px" width="1698px" height="906px" float="center"/>
 
-`Рисунок 4`
+
 
 1. Роль/Фамилия/Подпись
 
@@ -91,9 +85,9 @@ order: 4
 
       ## 2\.3. Параметры экземпляра основной надписи
 
-<image src="./rabota-so-shtampom-3.webp" crop="0,0,100,100" scale="1091px" width="1231px" height="817px" float="center"/>
+<image src="./rabota-so-shtampom-3.webp" title="Рисунок 5" crop="0,0,100,100" scale="1018px" width="1231px" height="817px" float="center"/>
 
-`Рисунок 5`
+
 
 1. Формат
 
@@ -129,9 +123,9 @@ order: 4
 
    ## 2\.4. Параметры экземпляра листа
 
-<image src="./rabota-so-shtampom-4.webp" crop="0,0,100,100" scale="1194px" width="1402px" height="686px" float="center"/>
+<image src="./rabota-so-shtampom-4.webp" title="Рисунок 6" crop="0,0,100,100" scale="1060px" width="1402px" height="686px" float="center"/>
 
-`Рисунок 6`
+
 
 1. Количество листов
 
@@ -167,9 +161,9 @@ order: 4
 
       </note>
 
-      <image src="./rabota-so-shtampom-5.webp" crop="0,0,100,100" scale="728px" width="331px" height="533px" float="center"/>
+      <image src="./rabota-so-shtampom-5.webp" title="Рисунок 7" crop="0,0,100,100" scale="334px" width="331px" height="533px" float="center"/>
 
-      `Рисунок 7`
+      
 
 5. Комплект чертежей
 
@@ -191,13 +185,13 @@ order: 4
 
 -  Перейдите по пути «**Вид**» – «**Изменения**» и заполните информацию об изменении (см. Рисунок 8).
 
-![](./rabota-so-shtampom-6.webp){width=754px height=123px}
+<image src="./rabota-so-shtampom-6.webp" title="Рисунок 8" crop="0,0,100,100" scale="678px" width="754px" height="123px" float="center"/>
 
-`Рисунок 8`
 
-<image src="./rabota-so-shtampom-7.webp" crop="0,0,100,100" scale="876px" width="1007px" height="785px" float="center"/>
 
-`Рисунок 9`
+<image src="./rabota-so-shtampom-7.webp" title="Рисунок 9" crop="0,0,100,100" scale="743px" width="1007px" height="785px" float="center"/>
+
+
 
 1. В поле «**Дата**» укажите дату в формате «**ДД.ММ.ГГ**» (см. Рисунок 9);
 
@@ -221,9 +215,7 @@ order: 4
 
 </note>
 
-<image src="./rabota-so-shtampom-8.webp" crop="0,0,100,100" scale="780px" width="548px" height="128px" float="center"/>
-
-`Рисунок 10`
+<image src="./rabota-so-shtampom-8.webp" title="Рисунок 10" crop="0,0,100,100" scale="551px" width="548px" height="128px" float="center"/>
 
 <note type="tip">
 
@@ -233,36 +225,26 @@ order: 4
 
 </note>
 
-![](./rabota-so-shtampom-9.webp){width=1078px height=725px}
-
-`Рисунок 11`
+<image src="./rabota-so-shtampom-9.webp" title="Рисунок 11" crop="0,0,100,100" scale="686px" width="1078px" height="725px" float="center"/>
 
 В случае, если заменяется целый лист, воспользуйтесь функцией «**Изменить**» в параметрах экземпляра листа (см. Рисунок 12). Поставьте галочку возле нужного изменения, чтобы оно отобразилось в штампе (см. Рисунок 12).
 
-<image src="./rabota-so-shtampom-10.webp" crop="0,0,100,100" scale="870px" width="1304px" height="628px" float="center"/>
+<image src="./rabota-so-shtampom-10.webp" crop="0,0,100,100" scale="780px" width="1304px" height="628px" float="center"/>
 
 `Рисунок 12`
 
 Для того, чтобы присвоить пометочному облаку изменение, необходимо в параметрах экземпляра пометочного облака выбрать соответствующее изменение (см. Рисунок 13).
 
-![](./rabota-so-shtampom-11.webp){width=1145px height=323px}
-
-`Рисунок 13`
+<image src="./rabota-so-shtampom-11.webp" title="Рисунок 13" crop="0,0,100,100" scale="703px" width="1145px" height="323px" float="center"/>
 
 Для того, чтобы разместить подпись, необходимо выбрать семейство «**Подпись_ФамилияУчастникаПроект**а» типоразмер «**Только подпись**» и разместить его на лист (см. Рисунок 14).
 
-![](./rabota-so-shtampom-13.webp){width=1135px height=510px}
-
-`Рисунок 14`
+<image src="./rabota-so-shtampom-13.webp" title="Рисунок 14" crop="0,0,100,100" scale="713px" width="1135px" height="510px" float="center"/>
 
 Для того, чтобы указать количество участков, необходимо заполнить параметр «**G_Штамп_Количество участков Строка N**» (см. Рисунок 15).
 
-![](./rabota-so-shtampom-12.webp){width=1517px height=373px}
-
-`Рисунок 15`
+<image src="./rabota-so-shtampom-12.webp" title="Рисунок 15" crop="0,0,100,100" scale="737px" width="1517px" height="373px" float="center"/>
 
 При необходимости маркировки изменения на чертеже необходимо использовать семейство марки «ADSK__М_ПометочногоОблака» (выполнена по ГОСТ21-1101-2013) (см. Рисунок 16).
 
-![](./rabota-so-shtampom-14.webp){width=906px height=238px}
-
-`Рисунок 16`
+![](./rabota-so-shtampom-14.webp "Рисунок 16"){width=906px height=238px}
