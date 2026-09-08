@@ -49,7 +49,7 @@ order: 1
 
 <note>
 
-Важно. Обязательно установите desktop версию по [ссылке](https://download.messenger.yandex.ru/desktop/latest?platform=win).
+Важно. Обязательно установите desktop версию по [ссылке](https://download.messenger.yandex.ru/desktop/latest?platform=win).
 
 </note>
 
@@ -76,6 +76,12 @@ order: 1
 
 
 **PyRevit** - корпоративные плагины разработанные BIM-отделом под внутренние задачи команд проектировщиков
+
+<note type="info">
+
+[Подробная инструкция](./../BIM-instrykcii/korporativnye-plaginy-pyrevit)
+
+</note>
 
 <note type="info">
 
