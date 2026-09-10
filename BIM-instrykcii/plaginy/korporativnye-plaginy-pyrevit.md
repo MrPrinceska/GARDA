@@ -16,6 +16,12 @@ aliases:
 
 -  Autodesk Revit;
 
+<note>
+
+Можно устанавливать только при закрытии всех Revit
+
+</note>
+
 -  pyRevit;
 
 -  [Nextcloud Desktop Client.](./../programmy/nextcloud)
@@ -110,7 +116,7 @@ Garda BIM.extension
 
 **Добавить папку**
 
-и выберите папку, **внутри которой находится** `.extension`.
+и выберите папку **ОБЩИЕ** и папку принадлежащую вашему разделу **(АР, КР, ВИС)**, **внутри которой находится** `.extension`.
 
 <image src="./korporativnye-plaginy-pyrevit-6.jpeg" crop="0,0,100,100" scale="514px" width="1047px" height="1191px" float="center"/>
 
