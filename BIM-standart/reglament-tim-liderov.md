@@ -4,6 +4,10 @@ order: 4
 aliases:
   - path: BIM-instrykcii/reglament-tim-liderov
     moved: "2026-08-26T10:11:24Z"
+properties:
+  - id: CDhLD
+    value:
+      - Родионов А.
 ---
 
 ## Принятые сокращения
@@ -196,4 +200,4 @@ aliases:
 
 -  советы по решению типовых проблем инженеров.
 
-## 
+##

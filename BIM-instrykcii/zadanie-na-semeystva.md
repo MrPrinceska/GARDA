@@ -4,6 +4,10 @@ order: 1
 aliases:
   - path: zadanie-na-semeystva
     moved: "2026-08-24T13:07:23Z"
+properties:
+  - id: CDhLD
+    value:
+      - Родионов А.
 ---
 
 ### Как создать задачу в Яндекс.Трекере для BIM Отдела.

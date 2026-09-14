@@ -4,6 +4,10 @@ order: 4
 aliases:
   - path: BIM-instrykcii/modplus
     moved: "2026-09-08T16:07:20Z"
+properties:
+  - id: CDhLD
+    value:
+      - Балицкий И.
 ---
 
 ## Установка и подключение лицензии

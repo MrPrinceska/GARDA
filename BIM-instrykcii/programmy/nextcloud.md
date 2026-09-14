@@ -4,6 +4,10 @@ order: 2
 aliases:
   - path: BIM-instrykcii/nextcloud
     moved: "2026-09-08T16:07:23Z"
+properties:
+  - id: CDhLD
+    value:
+      - Родионов А.
 ---
 
 <note type="danger">
