@@ -6,6 +6,10 @@ aliases:
     moved: "2026-09-08T16:07:54Z"
   - path: BIM-instrykcii/rabota-so-shtampom
     moved: "2026-09-08T16:08:09Z"
+properties:
+  - id: CDhLD
+    value:
+      - Луцко Д.
 ---
 
 ## 1\. Общие указания

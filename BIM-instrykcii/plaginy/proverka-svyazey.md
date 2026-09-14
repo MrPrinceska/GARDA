@@ -1,6 +1,10 @@
 ---
 title: Проверка связей
 order: 5
+properties:
+  - id: CDhLD
+    value:
+      - Луцко Д.
 ---
 
 <note type="info">

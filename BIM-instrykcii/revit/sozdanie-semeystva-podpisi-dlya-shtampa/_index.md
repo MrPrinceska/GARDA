@@ -7,6 +7,10 @@ aliases:
     moved: "2026-08-18T15:14:05Z"
   - path: BIM-instrykcii/sozdanie-semeystva-podpisi-dlya-shtampa
     moved: "2026-09-08T16:08:11Z"
+properties:
+  - id: CDhLD
+    value:
+      - Луцко Д.
 ---
 
 <note type="info">
@@ -91,4 +95,4 @@ aliases:
 
 10\. Перед использованием семейства необходимо направить его на согласование на почту Александру Родионову ([a.rodionov@gardapro.ru](mailto:a.rodionov@gardapro.ru))
 
-### 
+###

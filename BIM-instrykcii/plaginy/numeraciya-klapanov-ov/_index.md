@@ -1,6 +1,10 @@
 ---
 title: Нумерация клапанов ОВ
 order: 3
+properties:
+  - id: CDhLD
+    value:
+      - Луцко Д.
 ---
 
 <note type="info">

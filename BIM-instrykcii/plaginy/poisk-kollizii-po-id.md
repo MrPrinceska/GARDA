@@ -1,6 +1,10 @@
 ---
 title: Поиск коллизии по ID
 order: 4
+properties:
+  - id: CDhLD
+    value:
+      - Луцко Д.
 ---
 
 <note type="info">
