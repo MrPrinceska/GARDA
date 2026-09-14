@@ -1,5 +1,5 @@
 ---
-title: Нумерация клапанов ОВ
+title: Маркировка клапанов ОВ
 order: 3
 properties:
   - id: CDhLD
