@@ -11,3 +11,15 @@ properties:
     name: zzzzzzz
     type: Flag
     style: dark-orange
+  - id: CDhLD
+    name: Автор
+    type: Enum
+    options:
+      docportalVisible: true
+    icon: book-check
+    values:
+      - Родионов А.
+      - Балицкий И.
+      - Аксенова М.
+      - Вакс Р.
+      - Луцко М.
