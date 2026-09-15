@@ -1,6 +1,6 @@
 ---
 title: Проверка связей
-order: 5
+order: 7
 properties:
   - id: CDhLD
     value:
@@ -11,7 +11,7 @@ properties:
 
 ## Где находится
 
-Плагин расположен на вкладке «**GARDA_ОБЩИЕ**», в панели «**Связи**»
+Плагин расположен на вкладке «**GARDA_Общие**», в панели «**Связи**»
 
 ![](./proverka-svyazey.webp){width=103px height=81px}
 

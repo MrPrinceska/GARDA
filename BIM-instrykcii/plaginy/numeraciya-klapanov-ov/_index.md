@@ -1,6 +1,6 @@
 ---
 title: Маркировка клапанов ОВ
-order: 3
+order: 4
 properties:
   - id: CDhLD
     value:
