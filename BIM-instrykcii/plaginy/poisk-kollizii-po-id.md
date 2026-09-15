@@ -1,6 +1,6 @@
 ---
 title: Поиск коллизии по ID
-order: 4
+order: 5
 properties:
   - id: CDhLD
     value:
@@ -11,7 +11,7 @@ properties:
 
 ## Где находится
 
-Плагин расположен на вкладке «**GARDA_ОБЩИЕ**», в панели «**Коллизии**»
+Плагин расположен на вкладке «**GARDA_ОБщие**», в панели «**Коллизии**»
 
 <image src="./poisk-kollizii-po-id.webp" crop="0,0,100,100" scale="106px" width="100px" height="95px" float="center"/>
 

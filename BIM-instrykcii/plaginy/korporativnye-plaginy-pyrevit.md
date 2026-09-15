@@ -1,6 +1,6 @@
 ---
 title: Корпоративные плагины PyRevit
-order: 0.5
+order: 1
 aliases:
   - path: BIM-instrykcii/korporativnye-plaginy-pyrevit
     moved: "2026-09-08T16:06:45Z"
