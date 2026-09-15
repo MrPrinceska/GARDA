@@ -19,7 +19,7 @@ properties:
 
 1. Скопировать в буфер обмера значение из **Таблицы увязки объекта** (столбец **L**):
 
-   <image src="./poisk-kollizii-po-id.jpeg" crop="0,0,100,100" scale="748px" width="1494px" height="456px" float="center"/>
+   ![](./poisk-kollizii-po-id.jpeg){width=1494px height=456px}
 
 2. Перейти в открытую модель Revit, нажать кнопку плагина.
 
