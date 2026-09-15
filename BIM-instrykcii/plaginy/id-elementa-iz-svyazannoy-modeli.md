@@ -15,6 +15,8 @@ properties:
 
 <image src="./id-elementa-iz-svyazannoy-modeli.jpeg" crop="0,0,100,100" scale="248px" width="245px" height="91px" float="center"/>
 
+## Как пользоваться
+
 Получение ID из связанной модели возможно двумя способами:
 
 1. Заранее выбрать элемент из связанной модели (прожимая Tab) и нажать кнопку плагина:
