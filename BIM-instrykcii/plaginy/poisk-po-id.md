@@ -30,3 +30,5 @@ order: 9
 -  Если элемент из текущей модели, он будет выделен
 
    ![](./poisk-po-id-2.gif){width=1438px height=946px}
+
+![](./poisk-po-id-2.gif){width=1438px height=946px}
