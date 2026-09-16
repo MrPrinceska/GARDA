@@ -25,7 +25,7 @@ properties:
 
 2. Нажать на кнопку плагина и выбрать элемент связанной модели:
 
-3. ![](./id-elementa-iz-svyazannoy-modeli.gif){width=1322px height=840px}
+   ![](./id-elementa-iz-svyazannoy-modeli.gif){width=1322px height=840px}
 
 ## Итог
 
