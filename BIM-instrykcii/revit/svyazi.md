@@ -1,11 +1,17 @@
 ---
 title: Связи
-order: 2.3
+order: 11.3
 aliases:
   - path: Proektirovanie/ar/svyazi
     moved: "2026-08-19T11:06:16Z"
   - path: svyazi
     moved: "2026-08-19T11:06:28Z"
+  - path: FAQ/svyazi
+    moved: "2026-09-17T12:09:33Z"
+properties:
+  - id: CDhLD
+    value:
+      - Балицкий И.
 ---
 
 ## 1\. Что нужно знать

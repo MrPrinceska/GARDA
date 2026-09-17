@@ -292,7 +292,7 @@ order: 1
 
 <note>
 
-[Полная инструкция по работе с рабочими наборами](./../FAQ/rabochie-nabory/_index)
+[Полная инструкция по работе с рабочими наборами](./../BIM-instrykcii/revit/rabochie-nabory/_index)
 
 </note>
 
@@ -374,7 +374,7 @@ order: 1
 
 <note type="info">
 
-[Полная инструкция по связям](./../FAQ/svyazi)
+[Полная инструкция по связям](./../BIM-instrykcii/revit/svyazi)
 
 </note>
 
