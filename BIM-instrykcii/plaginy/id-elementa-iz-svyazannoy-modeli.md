@@ -23,7 +23,7 @@ properties:
 
    ![](./id-elementa-iz-svyazannoy-modeli.gif){width=1200px height=878px}
 
-2. Нажать на кнопку плагина и выбрать элемент связанной модели:
+2. Нажать на кнопку плагина и выбрать элемент связанной модели:\_
 
    ![](./id-elementa-iz-svyazannoy-modeli.gif){width=1322px height=840px}
 
