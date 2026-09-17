@@ -1,5 +1,5 @@
 ---
-title: АИ_Отделка
+title: АИ Отделка
 order: 0.5
 properties:
   - id: CDhLD
