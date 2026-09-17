@@ -31,6 +31,8 @@ properties:
 
 ![](./poisk-po-id.gif){width=1429px height=981px}
 
+
+
 -  Если элемент из текущей модели, он будет выделен
 
 ![](./poisk-po-id-2.gif){width=1438px height=946px}
