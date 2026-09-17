@@ -14,7 +14,7 @@ properties:
 
 1\. Откройте Яндекс.Трекер и нажмите «Создать задачу».
 
-<image src="./zadanie-na-semeystva-6.jpeg" crop="0,0,100,100" scale="339px" width="646px" height="637px" float="center"/>
+<image src="./_index-6.jpeg" crop="0,0,100,100" scale="339px" width="646px" height="637px" float="center"/>
 
 
 
@@ -26,7 +26,7 @@ properties:
 
 </note>
 
-<image src="./zadanie-na-semeystva-3.jpeg" crop="0,0,100,100" scale="539px" width="1296px" height="744px" float="center"/>
+<image src="./_index-3.jpeg" crop="0,0,100,100" scale="539px" width="1296px" height="744px" float="center"/>
 
 
 
@@ -38,13 +38,13 @@ properties:
 
 -  «Плагины» -- для разработки и корректировки плагинов.
 
-![](./zadanie-na-semeystva.jpeg){width=1159px height=272px}
+![](./_index.jpeg){width=1159px height=272px}
 
 
 
 4\. Заполните все поля формы.
 
-<image src="./zadanie-na-semeystva-2.jpeg" crop="0,0,100,100" scale="439px" width="1008px" height="1911px" float="center"/>
+<image src="./_index-2.jpeg" crop="0,0,100,100" scale="439px" width="1008px" height="1911px" float="center"/>
 
 
 
