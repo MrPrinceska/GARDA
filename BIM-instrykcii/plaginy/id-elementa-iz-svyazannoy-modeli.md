@@ -21,11 +21,11 @@ properties:
 
 1. Заранее выбрать элемент из связанной модели (прожимая Tab) и нажать кнопку плагина:
 
-2. ![](./id-elementa-iz-svyazannoy-modeli.gif){width=1200px height=878px}
+   ![](./id-elementa-iz-svyazannoy-modeli.gif){width=1200px height=878px}
 
-3. Нажать на кнопку плагина и выбрать элемент связанной модели:
+2. Нажать на кнопку плагина и выбрать элемент связанной модели:
 
-4. ![](./id-elementa-iz-svyazannoy-modeli.gif){width=1322px height=840px}
+   ![](./id-elementa-iz-svyazannoy-modeli.gif){width=1322px height=840px}
 
 ## Итог
 
