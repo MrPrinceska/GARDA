@@ -4,6 +4,10 @@ order: 0.5
 aliases:
   - path: BIM-instrykcii/plaginy/p
     moved: "2026-09-15T06:58:41Z"
+properties:
+  - id: CDhLD
+    value:
+      - Вакс Р.
 ---
 
 ## Назначение инструмента
