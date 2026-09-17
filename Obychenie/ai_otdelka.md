@@ -1,5 +1,5 @@
 ---
-title: АИ Отделка
+title: АИ  Отделка
 order: 0.5
 properties:
   - id: CDhLD
@@ -7,7 +7,7 @@ properties:
       - Вакс Р.
 ---
 
-[Ссылка на видео](https://ncloud.avilex.ru/index.php/f/26846879)
+[Ссылка на встречу](https://ncloud.avilex.ru/index.php/f/26846879)
 
 ### **Тайм-коды**
 
