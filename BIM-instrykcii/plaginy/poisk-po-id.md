@@ -31,12 +31,6 @@ properties:
 
    ![](./poisk-po-id-2.gif){width=1506px height=788px}
 
-<<<<<<< Updated upstream
+При выборе 3D-вида для отображения элемента создается 3D-вид:
 
-
--  Если элемент из текущей модели, он будет выделен
-
-![](./poisk-po-id-2.gif){width=1438px height=946px}
-=======
-При выборе 3D-вида для
->>>>>>> Stashed changes
+![](./poisk-po-id-2.gif){width=1506px height=788px}
