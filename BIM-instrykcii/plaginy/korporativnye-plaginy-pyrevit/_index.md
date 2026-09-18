@@ -32,7 +32,7 @@ properties:
 
 </note>
 
--  [Nextcloud Desktop Client.](./../programmy/nextcloud)
+-  [Nextcloud Desktop Client.](./../../programmy/nextcloud)
 
 Если какое-либо из приложений отсутствует в приложении «Установка ПО», обратитесь в ИТ-службу.
 
@@ -44,9 +44,9 @@ properties:
 
 **pyRevit -> Настройки**
 
-<image src="./korporativnye-plaginy-pyrevit.jpeg" crop="0,0,100,100" scale="138px" width="137px" height="144px" float="center"/>
+<image src="./_index.jpeg" crop="0,0,100,100" scale="138px" width="137px" height="144px" float="center"/>
 
-<image src="./korporativnye-plaginy-pyrevit-2.jpeg" crop="0,0,100,100" scale="495px" width="877px" height="286px" float="center"/>
+<image src="./_index-2.jpeg" crop="0,0,100,100" scale="495px" width="877px" height="286px" float="center"/>
 
 
 
@@ -54,7 +54,7 @@ properties:
 
 После нажмите «**Сохранить и перезапустить**».
 
-<image src="./korporativnye-plaginy-pyrevit-6.jpeg" crop="0,0,100,100" scale="514px" width="1047px" height="1191px" float="center"/>
+<image src="./_index-6.jpeg" crop="0,0,100,100" scale="514px" width="1047px" height="1191px" float="center"/>
 
 Пример:
 
@@ -94,7 +94,7 @@ C:\Nextcloud\Гарда - ТИМ – отдел\04_Плагины\Garda-BIM\АР
 
 Нажмите **pyRevit -> Обновить**.
 
-![](./korporativnye-plaginy-pyrevit-4.jpeg){width=138px height=144px}
+![](./_index-4.jpeg){width=138px height=144px}
 
 ## 4\. Проверка подключения
 
