@@ -29,7 +29,7 @@ properties:
 
 -  Выберите план этажа из списка
 
--  ![](./poisk-po-id.gif){width=1506px height=788px}
+   ![](./poisk-po-id-2.gif){width=1506px height=788px}
 
 <<<<<<< Updated upstream
 
