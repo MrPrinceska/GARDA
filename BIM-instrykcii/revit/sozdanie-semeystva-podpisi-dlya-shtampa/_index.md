@@ -1,17 +1,23 @@
 ---
 title: Семейство подписи
-order: 1
+order: 4.7
 aliases:
   - path: >-
       Proektirovanie/sozdanie-semeystva-podpisi-dlya-shtampa/sozdanie-semeystva-podpisi-dlya-shtampa
     moved: "2026-08-18T15:14:05Z"
+  - path: BIM-instrykcii/sozdanie-semeystva-podpisi-dlya-shtampa
+    moved: "2026-09-08T16:08:11Z"
+properties:
+  - id: CDhLD
+    value:
+      - Луцко Д.
 ---
 
-<note type="info">
+Данная инструкция описывает процесс формирования семейств подписей, предназначенных для заполнения штампов на листах
 
-Данная инструкция предназначена для создания семейств подписей для последующего занесения в штампы на листах.
 
-</note>
+
+## Создание семейства
 
 1\. Для создания новой подписи для штампа необходимо заранее создать скан подписи (формат PNG, PDF)
 
@@ -61,7 +67,7 @@ aliases:
 
 
 
-<image src="./_index-4.jpeg" crop="0,0,100,100" scale="598px" width="734px" height="729px" float="center"/>
+<image src="./_index-4.jpeg" crop="0,0,100,100" scale="456px" width="734px" height="729px" float="center"/>
 
 
 
@@ -77,7 +83,7 @@ aliases:
 
 
 
-![](./sozdanie-semeystva-podpisi-dlya-shtampa-2.jpeg){width=1264px height=483px}
+<image src="./sozdanie-semeystva-podpisi-dlya-shtampa-2.jpeg" crop="0,0,100,100" scale="697px" width="1264px" height="483px" float="center"/>
 
 
 

@@ -1,11 +1,17 @@
 ---
 title: Рабочие наборы
-order: 1.2
+order: 10.3
 aliases:
   - path: Proektirovanie/ar/rabochie-nabory
     moved: "2026-08-19T11:06:09Z"
   - path: rabochie-nabory
     moved: "2026-08-19T11:06:22Z"
+  - path: FAQ/rabochie-nabory
+    moved: "2026-09-17T12:09:29Z"
+properties:
+  - id: CDhLD
+    value:
+      - Балицкий И.
 ---
 
 ## 1\. Что нужно знать

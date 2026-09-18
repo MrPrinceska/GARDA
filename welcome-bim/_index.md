@@ -49,7 +49,7 @@ order: 1
 
 <note>
 
-Важно. Обязательно установите desktop версию по [ссылке](https://download.messenger.yandex.ru/desktop/latest?platform=win).
+Важно. Обязательно установите desktop версию по [ссылке](https://download.messenger.yandex.ru/desktop/latest?platform=win).
 
 </note>
 
@@ -59,7 +59,7 @@ order: 1
 
 <note type="info">
 
-[Подробная инструкция](./../BIM-instrykcii/nextcloud)
+[Подробная инструкция](./../BIM-instrykcii/programmy/nextcloud)
 
 </note>
 
@@ -69,13 +69,19 @@ order: 1
 
 <note type="info">
 
-[Подробная инструкция](./../BIM-instrykcii/modplus)
+[Подробная инструкция](./../BIM-instrykcii/programmy/modplus)
 
 </note>
 
 
 
 **PyRevit** - корпоративные плагины разработанные BIM-отделом под внутренние задачи команд проектировщиков
+
+<note type="info">
+
+[Подробная инструкция](./../BIM-instrykcii/plaginy/korporativnye-plaginy-pyrevit)
+
+</note>
 
 <note type="info">
 
@@ -187,7 +193,7 @@ order: 1
 
 ### 4\.4 Создание собственной подписи в Revit
 
-Для подписи на штампах необходимо [создать семейство Вашей подписи](./../BIM-instrykcii/sozdanie-semeystva-podpisi-dlya-shtampa/_index) и добавить его в корпоративную библиотеку семейств
+Для подписи на штампах необходимо [создать семейство Вашей подписи](./../BIM-instrykcii/revit/sozdanie-semeystva-podpisi-dlya-shtampa/_index) и добавить его в корпоративную библиотеку семейств
 
 ## 5\. Открытие модели и совместная работа
 
@@ -286,7 +292,7 @@ order: 1
 
 <note>
 
-[Полная инструкция по работе с рабочими наборами](./../FAQ/rabochie-nabory/_index)
+[Полная инструкция по работе с рабочими наборами](./../BIM-instrykcii/revit/rabochie-nabory/_index)
 
 </note>
 
@@ -368,7 +374,7 @@ order: 1
 
 <note type="info">
 
-[Полная инструкция по связям](./../FAQ/svyazi)
+[Полная инструкция по связям](./../BIM-instrykcii/revit/svyazi)
 
 </note>
 

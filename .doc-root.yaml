@@ -3,11 +3,15 @@ description: База знаний компании ООО "Гарда"
 syntax: XML
 supportedLanguages: []
 properties:
-  - id: bUuZu
-    name: fdgdfgfdg
-    type: Flag
-    style: blue-purple
-  - id: AvZ82
-    name: zzzzzzz
-    type: Flag
-    style: dark-orange
+  - id: CDhLD
+    name: Автор
+    type: Enum
+    options:
+      docportalVisible: true
+    icon: book-check
+    values:
+      - Родионов А.
+      - Балицкий И.
+      - Аксенова М.
+      - Вакс Р.
+      - Луцко Д.

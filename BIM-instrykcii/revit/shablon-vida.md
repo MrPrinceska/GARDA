@@ -1,6 +1,6 @@
 ---
 title: Шаблон вида
-order: 1.8
+order: 12.3
 aliases:
   - path: Proektirovanie/ar/shablon-vida
     moved: "2026-08-19T11:06:11Z"
@@ -8,6 +8,12 @@ aliases:
     moved: "2026-08-19T11:06:13Z"
   - path: shablon-vida
     moved: "2026-08-19T11:06:24Z"
+  - path: FAQ/shablon-vida
+    moved: "2026-09-17T12:09:38Z"
+properties:
+  - id: CDhLD
+    value:
+      - Балицкий И.
 ---
 
 ## 1\. Что нужно знать

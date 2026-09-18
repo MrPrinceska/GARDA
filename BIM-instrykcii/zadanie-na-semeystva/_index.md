@@ -1,22 +1,32 @@
 ---
 title: Постановка задач BIM отделу
-order: 0.5
+order: 1
 aliases:
   - path: zadanie-na-semeystva
     moved: "2026-08-24T13:07:23Z"
+properties:
+  - id: CDhLD
+    value:
+      - Родионов А.
 ---
 
 ### Как создать задачу в Яндекс.Трекере для BIM Отдела.
 
 1\. Откройте Яндекс.Трекер и нажмите «Создать задачу».
 
-<image src="./zadanie-na-semeystva-6.jpeg" crop="0,0,100,100" scale="339px" width="646px" height="637px" float="center"/>
+<image src="./_index-6.jpeg" crop="0,0,100,100" scale="339px" width="646px" height="637px" float="center"/>
 
 
 
-2\. В поле «Очередь» выберите «ТИМ».
+2\. В поле «Очередь» выберите «ТИМ» или «ТИМ МСК».
 
-<image src="./zadanie-na-semeystva-3.jpeg" crop="0,0,100,100" scale="539px" width="1296px" height="744px" float="center"/>
+<note type="tip">
+
+Если очередь отсутствует, тогда в поиске впишите `ТИМ МСК` и выберите ее.
+
+</note>
+
+<image src="./_index-3.jpeg" crop="0,0,100,100" scale="539px" width="1296px" height="744px" float="center"/>
 
 
 
@@ -28,13 +38,13 @@ aliases:
 
 -  «Плагины» -- для разработки и корректировки плагинов.
 
-![](./zadanie-na-semeystva.jpeg){width=1159px height=272px}
+![](./_index.jpeg){width=1159px height=272px}
 
 
 
 4\. Заполните все поля формы.
 
-<image src="./zadanie-na-semeystva-2.jpeg" crop="0,0,100,100" scale="439px" width="1008px" height="1911px" float="center"/>
+<image src="./_index-2.jpeg" crop="0,0,100,100" scale="439px" width="1008px" height="1911px" float="center"/>
 
 
 

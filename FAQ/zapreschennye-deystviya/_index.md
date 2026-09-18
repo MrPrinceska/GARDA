@@ -1,6 +1,10 @@
 ---
 title: Запрещенные действия
 order: 5.3
+properties:
+  - id: CDhLD
+    value:
+      - Балицкий И.
 ---
 
 # Запрещенные действия в Revit
